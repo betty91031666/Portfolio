@@ -58,3 +58,25 @@ section{
 .txt-bg i{
     color: blue;
 }
+
+#about img{
+    width: 60%;
+}
+#home img{
+    width: 60%;
+}
+#portfolio1 img{
+    width: 60%;
+}
+#portfolio2 img{
+    width: 60%;
+}
+#portfolio3 img{
+    width: 60%;
+}
+#portfolio4 img{
+    width: 60%;
+}
+#portfolio5 img{
+    width: 60%;
+}
