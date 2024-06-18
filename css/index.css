@@ -1,19 +1,27 @@
 /* 各區背景圖 */
-#封面{
-     background-image: url("../images/封面.jpg");
+#home{
+     /* background-image: url("../images/封面.jpg"); */
 }
-#履歷表{
-    /* background-image: url("../images/p1.jpg"); 
+#about{
+     /* background-image: url("../images/履歷表設計.jpg") */
 }
-#作品集{
+#portfolio1{
     /* background-image: url("../images/p2.jpg"); */
 }
-#service{
-    background-image: url("../images/p3.jpg");
+#portfolio2{
+    /* background-image: url("../images/p3.jpg"); */
 }
-#contact{
-    background-image: url("../images/p4.jpg");
+#portfolio3{
+    /* background-image: url("../images/p4.jpg"); */
 }
+#portfolio4{
+    /* background-image: url("../images/p4.jpg"); */
+}
+#portfolio5{
+    /* background-image: url("../images/p4.jpg"); */
+}
+
+
 
 /* 將視窗的寬高設定為滿版（100%） */
 html,
