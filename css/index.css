@@ -1,24 +1,24 @@
 /* 各區背景圖 */
 #home{
-     /* background-image: url("../images/封面.jpg"); */
+     background-image: url("../images/封面.jpg"); 
 }
-#about{
-     /* background-image: url("../images/履歷表設計.jpg") */
+#About {
+     background-image: url("../images/背景.jpg");
 }
-#portfolio1{
-    /* background-image: url("../images/p2.jpg"); */
+#Poster{
+    background-image: url("../images/背景.jpg"); 
 }
-#portfolio2{
-    /* background-image: url("../images/p3.jpg"); */
+#Polygen{
+    background-image: url("../images/背景.jpg");
 }
-#portfolio3{
-    /* background-image: url("../images/p4.jpg"); */
+#Travelbook{
+    background-image: url("../images/背景.jpg");
 }
-#portfolio4{
-    /* background-image: url("../images/p4.jpg"); */
+#ProductPackaging{
+    background-image: url("../images/背景.jpg");
 }
-#portfolio5{
-    /* background-image: url("../images/p4.jpg"); */
+#Menu{
+    background-image: url("../images/背景.jpg");
 }
 
 
@@ -59,25 +59,22 @@ section{
     color: blue;
 }
 
-#about img{
+#About img{
     width: 60%;
 }
-#home img{
+#Poster img{
     width: 60%;
 }
-#portfolio1 img{
+#Polygen img{
     width: 60%;
 }
-#portfolio2 img{
+#Travelbook img{
     width: 60%;
 }
-#portfolio3 img{
+#ProductPackaging img{
     width: 60%;
 }
-#portfolio4 img{
-    width: 60%;
-}
-#portfolio5 img{
+#Menu img{
     width: 60%;
 }
 #portfolio1 txt{
