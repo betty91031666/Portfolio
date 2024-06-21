@@ -3,7 +3,7 @@
      background-image: url("../images/封面.jpg"); 
 }
 #About {
-     background-image: url("../images/背景.jpg");
+     background-image: url("../images/履歷表設計.png");
 }
 #Poster{
     background-image: url("../images/背景.jpg"); 
@@ -59,9 +59,9 @@ section{
     color: blue;
 }
 
-#About img{
+/* #About img{
     width: 60%;
-}
+} */
 #Poster img{
     width: 60%;
 }
@@ -75,6 +75,9 @@ section{
     width: 60%;
 }
 #Menu img{
+    width: 60%;
+}
+#background img{
     width: 60%;
 }
 #portfolio1 txt{
